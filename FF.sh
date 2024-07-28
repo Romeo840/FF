@@ -1,9 +1,9 @@
 Codes: https://github.com/dkbroyt/aman/blob/main/aman.sh
 
-git clone https://github.com/dkbroy
+git clone https://github.com/Romeo840
 
-cd name.sh
+cd FF.sh
 
-chmod +x name.sh && ./name.sh
+chmod +x FF.sh && ./FF.sh
 
 common: git add . && git commit -m "feat: initiated the project" && git push origin main
