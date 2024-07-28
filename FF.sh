@@ -1,4 +1,4 @@
-Codes: https://github.com/dkbroyt/aman/blob/main/aman.sh
+Codes: https://github.com/Romeo840/FF/blob/main/FF.sh
 
 git clone https://github.com/Romeo840
 
